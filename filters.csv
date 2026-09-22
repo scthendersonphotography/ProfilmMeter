@@ -1,0 +1,58 @@
+id,name,manufacturer,category,designation,miredShift,fStopCompensation
+lee-200-double-ct-blue,200 Double C.T. Blue,Lee Filters,gel,200,-274,-2.6
+lee-283-one-and-half-ct-blue,283 One and a Half C.T. Blue,Lee Filters,gel,283,-200,
+rosco-3220-double-ctb,Cinegel #3220: Double CTB,Rosco,gel,#3220,-260,-3.3
+lee-201-full-ct-blue,201 Full C.T. Blue,Lee Filters,gel,201,-137,-1.6
+rosco-3202-full-ctb,Cinegel #3202: FullCTB,Rosco,gel,#3202,-131,-1.5
+lee-281-three-quarter-ct-blue,281 Three Quarter C.T. Blue,Lee Filters,gel,281,-112,-1.1
+rosco-3203-three-quarter-ctb,Cinegel #3203: 3/4 CTB),Rosco,gel,#3203,-100,-1.3
+lee-202-half-ct-blue,202 Half C.T. Blue,Lee Filters,gel,202,-78,-0.9
+rosco-3204-half-ctb,Cinegel #3204: 1/2 CTB,Rosco,gel,#3204,-68,-0.9
+rosco-3206-third-ctb,Cinegel #3206: 1/3 CTB,Rosco,gel,#3206,-49,-0.6
+lee-203-quarter-ct-blue,203 Quarter C.T. Blue,Lee Filters,gel,203,-35,-0.05
+rosco-3208-quarter-ctb,Cinegel #3208: 1/4 CTB,Rosco,gel,#3208,-30,-0.4
+lee-218-eighth-ct-blue,218 Eighth C.T. Blue,Lee Filters,gel,218,-18,-0.3
+rosco-3216-eighth-ctb,Cinegel #3216: 1/8 CTB,Rosco,gel,#3216,-12,-0.3
+lee-444-eighth-ct-straw,444 Eighth C.T. Straw,Lee Filters,gel,444,20,-0.2
+rosco-3410-eighth-cto,Cinegel #3410: Roscosun 1/8 CTO,Rosco,gel,#3410,20,-0.1
+lee-223-eighth-ct-orange,223 Eighth C.T. orange,Lee Filters,gel,223,26,-0.2
+rosco-3134-tough-mt54,Cinegel #3134: Tough MT 54,Rosco,gel,#3134,35,-0.3
+lee-443-quarter-ct-straw,443 Quarter C.T. Straw,Lee Filters,gel,443,42,-0.3
+rosco-3409-quarter-cto,Cinegel #3409: Roscosun 1/4 CTO,Rosco,gel,#3409,42,-0.3
+rosco-3107-tough-y1,Cinegel #3107: Tough Y-1,Rosco,gel,#3107,45,-0.1
+lee-206-quarter-ct-orange,206 Quarter C.T. orange,Lee Filters,gel,206,64,-0.3
+rosco-3408-half-cto,Cinegel #3408: Roscosun 1/2 CTO,Rosco,gel,#3408,81,-0.5
+lee-442-half-ct-straw,442 Half C.T. Straw,Lee Filters,gel,442,81,-0.5
+lee-205-half-ct-orange,205 Half C.T. orange,Lee Filters,gel,205,109,-0.5
+rosco-3102-tough-mt2,Cinegel #3102: Tough MT2,Rosco,gel,#3102,110,-0.6
+lee-285-three-quarter-ct-orange,285 Three Quarter C.T. orange,Lee Filters,gel,285,124,-0.7
+rosco-3411-three-quarter-cto,Cinegel #3411: Roscosun 3/4 CTO,Rosco,gel,#3411,131,-0.8
+rosco-3401-roscosun-85,Cinegel #3401: Roscosun 85,Rosco,gel,#3401,131,-0.8
+rosco-3106-tough-mty,Cinegel #3106: Tough MTY,Rosco,gel,#3106,131,-0.8
+lee-204-full-ct-orange,204 Full C.T. orange,Lee Filters,gel,204,159,-0.9
+lee-604-full-ct-eight-five,604 Full C.T. Eight Five,Lee Filters,gel,604,159,
+lee-286-one-and-half-ct-orange-1,286 One and a Half C.T. orange,Lee Filters,gel,286,159,
+lee-207-full-ct-orange-nd03,207 Full C.T. orange + .3ND,Lee Filters,gel,207,159,-1
+lee-208-full-ct-orange-nd06,208 Full C.T. orange + .6ND,Lee Filters,gel,208,159,-2
+lee-441-full-ct-straw,441 Full C.T. Straw,Lee Filters,gel,441,160,-0.8
+rosco-3407-cto,Cinegel #3407: Roscosun CTO,Rosco,gel,#3407,167,-1.1
+lee-286-one-and-half-ct-orange-2,286 One and a Half C.T. orange,Lee Filters,gel,286,245,
+lee-287-double-ct-orange,287 Double C.T. orange,Lee Filters,gel,287,312,
+rosco-3420-double-cto,Cinegel #3420: Roscosun Double CTO,Rosco,gel,#3420,320,-2.1
+lee-80a,80A Standard (Polyester),Lee Filters,camera,80A,-131,-2
+lee-80b,80B Standard (Polyester),Lee Filters,camera,80B,-112,-1.67
+lee-80c,80C Standard (Polyester),Lee Filters,camera,80C,-81,-1
+lee-80d,80D Standard (Polyester),Lee Filters,camera,80D,-56,-0.67
+lee-82c,82C Standard (Polyester),Lee Filters,camera,82C,-45,-0.67
+lee-82b,82B Standard (Polyester),Lee Filters,camera,82B,-32,-0.67
+lee-82a,82A Standard (Polyester),Lee Filters,camera,82A,-21,-0.33
+lee-82,82 Standard (Polyester),Lee Filters,camera,82,-10,-0.33
+lee-81,81 Standard (Polyester),Lee Filters,camera,81,9,-0.33
+lee-81a,81A Standard (Polyester),Lee Filters,camera,81A,18,-0.33
+lee-81b,81B Standard (Polyester),Lee Filters,camera,81B,27,-0.33
+lee-81c,81C Standard (Polyester),Lee Filters,camera,81C,35,-0.33
+lee-81d,81D Standard (Polyester),Lee Filters,camera,81D,42,-0.67
+lee-81ef,81EF Standard (Polyester),Lee Filters,camera,81EF,53,-0.67
+lee-85c,85C Standard (Polyester),Lee Filters,camera,85C,81,-0.67
+lee-85,85 Standard (Polyester),Lee Filters,camera,85,112,-0.67
+lee-85b,85B Standard (Polyester),Lee Filters,camera,85B,131,-0.67
