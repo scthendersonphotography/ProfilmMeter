@@ -1,4 +1,4 @@
-name,iso,format,reciprocityProfileId,spectralSensitivity,purchaseUrl,positiveExposure,formatWidth,formatHeight
+name,iso,format,reciprocityProfileId,spectralSensitivity,purchaseUrl,positiveExposure,formatWidth,formatHeight,materialType,daylightBalance,empiricalTintMired,warmBias,saturationFactor
 Adox CHS 100 II 35mm,100,35mm,1.25,panchromatic,,,, 
 Adox CHS 100 II 120,100,120,1.25,panchromatic,,,,
 Adox CMS 20 II 35mm,20,35mm,1.03,panchromatic,,,,
@@ -147,14 +147,14 @@ Arista.EDU RC Paper 5x7,6,5x7,bw_paper,orthochromatic,,,,
 Arista.EDU RC Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,
 Arista.EDU FB Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,
 Arista.EDU FB Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,
-Fujifilm Crystal Archive CA,2,none,generic,panchromatic,,yes,,
-Fujifilm Crystal Archive DPII,3,none,generic,panchromatic,,yes,,
-Adox Color Mission,2,none,generic,panchromatic,,yes,,
-Labo Argentique Fujicolor,2,none,generic,panchromatic,,yes,,
-Kodak Endura Premier,3,none,generic,panchromatic,,yes,,
-Kodak Endura Ultra,3,none,generic,panchromatic,,yes,,
-Kodak Endura Metallic,2,none,generic,panchromatic,,yes,,
-Kodak Endura Supra,3,none,generic,panchromatic,,yes,,
+Fujifilm Crystal Archive CA,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.0
+Fujifilm Crystal Archive DPII,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,-5,-5,1.0
+Adox Color Mission,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.0
+Labo Argentique Fujicolor,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.0
+Kodak Endura Premier,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,8,8,1.0
+Kodak Endura Ultra,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,12,12,1.0
+Kodak Endura Metallic,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.05
+Kodak Endura Supra,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,10,10,1.0
 Wet Plate Collodion — Negative (6th Plate),2,sixth plate,zebra_dry_plate,blue-sensitive,,,83,70
 Wet Plate Collodion — Negative (Quarter Plate),2,quarter plate,zebra_dry_plate,blue-sensitive,,,108,83
 Wet Plate Collodion — Negative (4x5),2,4x5,zebra_dry_plate,blue-sensitive,,,,
