@@ -1,182 +1,182 @@
-name,iso,format,reciprocityProfileId,spectralSensitivity,purchaseUrl,positiveExposure,formatWidth,formatHeight,materialType,daylightBalance,empiricalTintMired,warmBias,saturationFactor
-Adox CHS 100 II 35mm,100,35mm,1.25,panchromatic,,,, 
-Adox CHS 100 II 120,100,120,1.25,panchromatic,,,,
-Adox CMS 20 II 35mm,20,35mm,1.03,panchromatic,,,,
-Adox CMS 20 II 120,20,120,1.03,panchromatic,,,,
-Adox HR-50 35mm,50,35mm,1.10,panchromatic,,,,
-Adox Silvermax 100 35mm,100,35mm,1.15,panchromatic,,,,
-Bergger Pancro 400 35mm,400,35mm,1.30,panchromatic,,,,
-Bergger Pancro 400 120,400,120,1.30,panchromatic,,,,
-Bergger Pancro 400 4x5,400,4x5,1.30,panchromatic,,,,
-Bergger Pancro 400 8x10,400,8x10,1.30,panchromatic,,,,
-CineStill 50D 35mm,50,35mm,1.30,panchromatic,,,,
-CineStill 50D 120,50,120,1.30,panchromatic,,,,
-CineStill 400D 35mm,400,35mm,1.12,panchromatic,,,,
-CineStill 400D 120,400,120,1.12,panchromatic,,,,
-CineStill 400D 4x5,400,4x5,1.12,panchromatic,,,,
-CineStill 800T 35mm,800,35mm,1.40,panchromatic,,,,
-CineStill 800T 120,800,120,1.40,panchromatic,,,,
-Ferrania P30 35mm,80,35mm,1.22,panchromatic,,,,
-Ferrania P30 120,80,120,1.22,panchromatic,,,,
-Ferrania P33 35mm,160,35mm,1.18,panchromatic,,,,
-Flic Film Chrome (E100D) 35mm,100,35mm,1.05,panchromatic,,,,
-Fomapan 100 35mm,100,35mm,1.35,panchromatic,,,,
-Fomapan 100 120,100,120,1.35,panchromatic,,,,
-Fomapan 100 4x5,100,4x5,1.35,panchromatic,,,,
-Fomapan 100 8x10,100,8x10,1.35,panchromatic,,,,
-Fomapan 200 35mm,200,35mm,1.65,panchromatic,,,,
-Fomapan 200 120,200,120,1.65,panchromatic,,,,
-Fomapan 200 4x5,200,4x5,1.65,panchromatic,,,,
-Fomapan 200 8x10,200,8x10,1.65,panchromatic,,,,
-Fomapan 400 35mm,400,35mm,1.38,panchromatic,,,,
-Fomapan 400 120,400,120,1.38,panchromatic,,,,
-Fomapan 400 4x5,400,4x5,1.38,panchromatic,,,,
-Fomapan 400 8x10,400,8x10,1.38,panchromatic,,,,
-Fujifilm Acros 100 II 35mm,100,35mm,acros,panchromatic,,,,
-Fujifilm Acros 100 II 120,100,120,acros,panchromatic,,,,
-Fujifilm Provia 100F 35mm,100,35mm,provia_100f,panchromatic,,,,
-Fujifilm Provia 100F 120,100,120,provia_100f,panchromatic,,,,
-Fujifilm Velvia 50 35mm,50,35mm,1.35,panchromatic,,,,
-Fujifilm Velvia 50 120,50,120,1.35,panchromatic,,,,
-Fujifilm Velvia 100 35mm,100,35mm,1.30,panchromatic,,,,
-Fujifilm Velvia 100 120,100,120,1.30,panchromatic,,,,
-Ilford Delta 100 35mm,100,35mm,1.26,panchromatic,,,,
-Ilford Delta 100 120,100,120,1.26,panchromatic,,,,
-Ilford Delta 100 4x5,100,4x5,1.26,panchromatic,,,,
-Ilford Delta 100 8x10,100,8x10,1.26,panchromatic,,,,
-Ilford Delta 400 35mm,400,35mm,1.41,panchromatic,,,,
-Ilford Delta 400 120,400,120,1.41,panchromatic,,,,
-Ilford Delta 400 4x5,400,4x5,1.41,panchromatic,,,,
-Ilford Delta 400 8x10,400,8x10,1.41,panchromatic,,,,
-Ilford Delta 3200 35mm,1000,35mm,1.33,panchromatic,,,,
-Ilford Delta 3200 120,1000,120,1.33,panchromatic,,,,
-Ilford FP4+ 35mm,125,35mm,1.26,panchromatic,,,,
-Ilford FP4+ 120,125,120,1.26,panchromatic,,,,
-Ilford FP4+ 4x5,125,4x5,1.26,panchromatic,,,,
-Ilford FP4+ 8x10,125,8x10,1.26,panchromatic,,,,
-Ilford HP5+ 35mm,400,35mm,1.31,panchromatic,,,,
-Ilford HP5+ 120,400,120,1.31,panchromatic,,,,
-Ilford HP5+ 4x5,400,4x5,1.31,panchromatic,,,,
-Ilford HP5+ 8x10,400,8x10,1.31,panchromatic,,,,
-Ilford Pan F Plus 35mm,50,35mm,1.33,panchromatic,,,,
-Ilford Pan F Plus 120,50,120,1.33,panchromatic,,,,
-Ilford SFX 200 35mm,200,35mm,1.30,panchromatic,,,,
-Ilford SFX 200 120,200,120,1.30,panchromatic,,,,
-Instax Mini,800,instax mini,1.20,panchromatic,,,,
-Instax Wide,800,instax wide,1.20,panchromatic,,,,
-Instax Square,800,instax square,1.20,panchromatic,,,,
-Kodak ColorPlus 200 35mm,200,35mm,1.35,panchromatic,,,,
-Kodak Double-X 35mm,250,35mm,1.30,panchromatic,,,,
-Kodak Double-X 120,250,120,1.30,panchromatic,,,,
-Kodak Ektachrome E100 35mm,100,35mm,1.28,panchromatic,,,,
-Kodak Ektachrome E100 120,100,120,1.28,panchromatic,,,,
-Kodak Ektachrome E100 4x5,100,4x5,1.28,panchromatic,,,,
-Kodak Ektar 100 35mm,100,35mm,1.30,panchromatic,,,,
-Kodak Ektar 100 120,100,120,1.30,panchromatic,,,,
-Kodak Ektar 100 4x5,100,4x5,1.30,panchromatic,,,,
-Kodak Gold 200 35mm,200,35mm,1.35,panchromatic,,,,
-Kodak Portra 160 35mm,160,35mm,1.30,panchromatic,,,,
-Kodak Portra 160 120,160,120,1.30,panchromatic,,,,
-Kodak Portra 160 4x5,160,4x5,1.30,panchromatic,,,,
-Kodak Portra 160 8x10,160,8x10,1.30,panchromatic,,,,
-Kodak Portra 400 35mm,400,35mm,1.31,panchromatic,,,,
-Kodak Portra 400 120,400,120,1.31,panchromatic,,,,
-Kodak Portra 400 4x5,400,4x5,1.31,panchromatic,,,,
-Kodak Portra 400 8x10,400,8x10,1.31,panchromatic,,,,
-Kodak ProImage 100 35mm,100,35mm,1.12,panchromatic,,,,
-Kodak T-Max 100 35mm,100,35mm,1.05,panchromatic,,,,
-Kodak T-Max 100 120,100,120,1.05,panchromatic,,,,
-Kodak T-Max 100 4x5,100,4x5,1.05,panchromatic,,,,
-Kodak T-Max 100 8x10,100,8x10,1.05,panchromatic,,,,
-Kodak T-Max 400 35mm,400,35mm,1.08,panchromatic,,,,
-Kodak T-Max 400 120,400,120,1.08,panchromatic,,,,
-Kodak T-Max 400 4x5,400,4x5,1.08,panchromatic,,,,
-Kodak T-Max 400 8x10,400,8x10,1.08,panchromatic,,,,
-Kodak Tri-X 400 35mm,400,35mm,1.33,panchromatic,,,,
-Kodak Tri-X 400 120,400,120,1.33,panchromatic,,,,
-Kodak Tri-X 400 4x5,400,4x5,1.33,panchromatic,,,,
-Kodak UltraMax 400 35mm,400,35mm,1.35,panchromatic,,,,
-Lomography Color 100 35mm,100,35mm,1.15,panchromatic,,,,
-Lomography Color 100 120,100,120,1.15,panchromatic,,,,
-Lomography Color 400 35mm,400,35mm,1.35,panchromatic,,,,
-Lomography Color 400 120,400,120,1.35,panchromatic,,,,
-Lomography Color 800 35mm,800,35mm,1.20,panchromatic,,,,
-Orwo UN54 35mm,100,35mm,1.18,panchromatic,,,,
-Orwo UN54 120,100,120,1.18,panchromatic,,,,
-Rollei Infrared 400 35mm,400,35mm,1.30,infrared,,,,
-Rollei Infrared 400 120,400,120,1.30,infrared,,,,
-Arista.edu Ultra 100 35mm,100,35mm,1.35,panchromatic,,,,
-Arista.edu Ultra 100 120,100,120,1.35,panchromatic,,,,
-Arista.edu Ultra 100 4x5,100,4x5,1.35,panchromatic,,,,
-Arista.edu Ultra 100 8x10,100,8x10,1.35,panchromatic,,,,
-Arista.edu Ultra 200 35mm,200,35mm,1.65,panchromatic,,,,
-Arista.edu Ultra 200 120,200,120,1.65,panchromatic,,,,
-Arista.edu Ultra 200 4x5,200,4x5,1.65,panchromatic,,,,
-Arista.edu Ultra 200 8x10,200,8x10,1.65,panchromatic,,,,
-Arista.edu Ultra 400 35mm,400,35mm,1.38,panchromatic,,,,
-Arista.edu Ultra 400 120,400,120,1.38,panchromatic,,,,
-Arista.edu Ultra 400 4x5,400,4x5,1.38,panchromatic,,,,
-Arista.edu Ultra 400 8x10,400,8x10,1.38,panchromatic,,,,
-Adox MCC 110 FB Paper 4x5,3,4x5,paper_adox,orthochromatic,,,,
-Adox MCC 110 FB Paper 8x10,3,8x10,paper_adox,orthochromatic,,,,
-Adox MCP 312 RC Paper 4x5,6,4x5,paper_adox,orthochromatic,,,,
-Adox MCP 312 RC Paper 5x7,6,5x7,paper_adox,orthochromatic,,,,
-Adox MCP 312 RC Paper 8x10,6,8x10,paper_adox,orthochromatic,,,,
-Foma Fomabrom Variant III FB Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,
-Foma Fomabrom Variant III FB Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,
-Fomaspeed Variant III RC Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,
-Fomaspeed Variant III RC Paper 5x7,6,5x7,bw_paper,orthochromatic,,,,
-Fomaspeed Variant III RC Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,
-Harman Direct Positive FB Paper 4x5,3,4x5,bw_paper,orthochromatic,,yes,,
-Harman Direct Positive FB Paper 5x7,3,5x7,bw_paper,orthochromatic,,yes,,
-Harman Direct Positive FB Paper 8x10,3,8x10,bw_paper,orthochromatic,,yes,,
-Ilford MGFB Warmtone Paper 4x5,3,4x5,bw_paper,orthochromatic,,,,
-Ilford MGFB Warmtone Paper 8x10,3,8x10,bw_paper,orthochromatic,,,,
-Ilford Multigrade FB Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,
-Ilford Multigrade FB Paper 5x7,6,5x7,bw_paper,orthochromatic,,,,
-Ilford Multigrade FB Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,
-Ilford Multigrade FB Paper 11x14,6,11x14,bw_paper,orthochromatic,,,,
-Ilford Multigrade RC Deluxe Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,
-Ilford Multigrade RC Deluxe Paper 5x7,6,5x7,bw_paper,orthochromatic,,,,
-Ilford Multigrade RC Deluxe Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,
-Ilford Multigrade RC Deluxe Paper 11x14,6,11x14,bw_paper,orthochromatic,,,,
-Kentmere VC Select RC Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,
-Kentmere VC Select RC Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,
-Arista.EDU RC Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,
-Arista.EDU RC Paper 5x7,6,5x7,bw_paper,orthochromatic,,,,
-Arista.EDU RC Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,
-Arista.EDU FB Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,
-Arista.EDU FB Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,
-Fujifilm Crystal Archive CA,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.0
-Fujifilm Crystal Archive DPII,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,-5,-5,1.0
-Adox Color Mission,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.0
-Labo Argentique Fujicolor,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.0
-Kodak Endura Premier,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,8,8,1.0
-Kodak Endura Ultra,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,12,12,1.0
-Kodak Endura Metallic,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.05
-Kodak Endura Supra,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,10,10,1.0
-Wet Plate Collodion — Negative (6th Plate),2,sixth plate,zebra_dry_plate,blue-sensitive,,,83,70
-Wet Plate Collodion — Negative (Quarter Plate),2,quarter plate,zebra_dry_plate,blue-sensitive,,,108,83
-Wet Plate Collodion — Negative (4x5),2,4x5,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate Collodion — Negative (Half Plate),2,half plate,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate Collodion — Negative (5x7),2,5x7,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate Collodion — Negative (Whole Plate),2,whole plate,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate Collodion — Negative (8x10),2,8x10,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate Collodion — Negative (11x14),2,11x14,zebra_dry_plate,blue-sensitive,,,,
-Tintype / Ferrotype (6th Plate),2,sixth plate,zebra_dry_plate,blue-sensitive,,yes,83,70
-Tintype / Ferrotype (Quarter Plate),2,quarter plate,zebra_dry_plate,blue-sensitive,,yes,108,83
-Tintype / Ferrotype (4x5),2,4x5,zebra_dry_plate,blue-sensitive,,yes,,
-Tintype / Ferrotype (5x7),2,5x7,zebra_dry_plate,blue-sensitive,,yes,,
-Tintype / Ferrotype (8x10),2,8x10,zebra_dry_plate,blue-sensitive,,yes,,
-Ambrotype (6th Plate),2,sixth plate,zebra_dry_plate,blue-sensitive,,yes,83,70
-Ambrotype (Quarter Plate),2,quarter plate,zebra_dry_plate,blue-sensitive,,yes,108,83
-Ambrotype (4x5),2,4x5,zebra_dry_plate,blue-sensitive,,yes,,
-Ambrotype (5x7),2,5x7,zebra_dry_plate,blue-sensitive,,yes,,
-Ambrotype (8x10),2,8x10,zebra_dry_plate,blue-sensitive,,yes,,
-Wet Plate — Fast Bath ISO 4 (4x5),4,4x5,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate — Fast Bath ISO 4 (5x7),4,5x7,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate — Fast Bath ISO 4 (8x10),4,8x10,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate — Slow Bath ISO 1 (4x5),1,4x5,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate — Slow Bath ISO 1 (5x7),1,5x7,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate — Slow Bath ISO 1 (8x10),1,8x10,zebra_dry_plate,blue-sensitive,,,,
-Wet Plate — Super Slow Bath ISO .4 (5x7),.4,5x7,zebra_dry_plate,blue-sensitive,,,,
+name,iso,format,reciprocityProfileId,spectralSensitivity,purchaseUrl,positiveExposure,formatWidth,formatHeight,materialType,daylightBalance,empiricalTintMired,warmBias,saturationFactor,filmType
+Adox CHS 100 II 35mm,100,35mm,1.25,panchromatic,,,, ,,,,,,film
+Adox CHS 100 II 120,100,120,1.25,panchromatic,,,,,,,,,,film
+Adox CMS 20 II 35mm,20,35mm,1.03,panchromatic,,,,,,,,,,film
+Adox CMS 20 II 120,20,120,1.03,panchromatic,,,,,,,,,,film
+Adox HR-50 35mm,50,35mm,1.10,panchromatic,,,,,,,,,,film
+Adox Silvermax 100 35mm,100,35mm,1.15,panchromatic,,,,,,,,,,film
+Bergger Pancro 400 35mm,400,35mm,1.30,panchromatic,,,,,,,,,,film
+Bergger Pancro 400 120,400,120,1.30,panchromatic,,,,,,,,,,film
+Bergger Pancro 400 4x5,400,4x5,1.30,panchromatic,,,,,,,,,,film
+Bergger Pancro 400 8x10,400,8x10,1.30,panchromatic,,,,,,,,,,film
+CineStill 50D 35mm,50,35mm,1.30,panchromatic,,,,,,,,,,film
+CineStill 50D 120,50,120,1.30,panchromatic,,,,,,,,,,film
+CineStill 400D 35mm,400,35mm,1.12,panchromatic,,,,,,,,,,film
+CineStill 400D 120,400,120,1.12,panchromatic,,,,,,,,,,film
+CineStill 400D 4x5,400,4x5,1.12,panchromatic,,,,,,,,,,film
+CineStill 800T 35mm,800,35mm,1.40,panchromatic,,,,,,,,,,film
+CineStill 800T 120,800,120,1.40,panchromatic,,,,,,,,,,film
+Ferrania P30 35mm,80,35mm,1.22,panchromatic,,,,,,,,,,film
+Ferrania P30 120,80,120,1.22,panchromatic,,,,,,,,,,film
+Ferrania P33 35mm,160,35mm,1.18,panchromatic,,,,,,,,,,film
+Flic Film Chrome (E100D) 35mm,100,35mm,1.05,panchromatic,,,,,,,,,,film
+Fomapan 100 35mm,100,35mm,1.35,panchromatic,,,,,,,,,,film
+Fomapan 100 120,100,120,1.35,panchromatic,,,,,,,,,,film
+Fomapan 100 4x5,100,4x5,1.35,panchromatic,,,,,,,,,,film
+Fomapan 100 8x10,100,8x10,1.35,panchromatic,,,,,,,,,,film
+Fomapan 200 35mm,200,35mm,1.65,panchromatic,,,,,,,,,,film
+Fomapan 200 120,200,120,1.65,panchromatic,,,,,,,,,,film
+Fomapan 200 4x5,200,4x5,1.65,panchromatic,,,,,,,,,,film
+Fomapan 200 8x10,200,8x10,1.65,panchromatic,,,,,,,,,,film
+Fomapan 400 35mm,400,35mm,1.38,panchromatic,,,,,,,,,,film
+Fomapan 400 120,400,120,1.38,panchromatic,,,,,,,,,,film
+Fomapan 400 4x5,400,4x5,1.38,panchromatic,,,,,,,,,,film
+Fomapan 400 8x10,400,8x10,1.38,panchromatic,,,,,,,,,,film
+Fujifilm Acros 100 II 35mm,100,35mm,acros,panchromatic,,,,,,,,,,film
+Fujifilm Acros 100 II 120,100,120,acros,panchromatic,,,,,,,,,,film
+Fujifilm Provia 100F 35mm,100,35mm,provia_100f,panchromatic,,,,,,,,,,film
+Fujifilm Provia 100F 120,100,120,provia_100f,panchromatic,,,,,,,,,,film
+Fujifilm Velvia 50 35mm,50,35mm,1.35,panchromatic,,,,,,,,,,film
+Fujifilm Velvia 50 120,50,120,1.35,panchromatic,,,,,,,,,,film
+Fujifilm Velvia 100 35mm,100,35mm,1.30,panchromatic,,,,,,,,,,film
+Fujifilm Velvia 100 120,100,120,1.30,panchromatic,,,,,,,,,,film
+Ilford Delta 100 35mm,100,35mm,1.26,panchromatic,,,,,,,,,,film
+Ilford Delta 100 120,100,120,1.26,panchromatic,,,,,,,,,,film
+Ilford Delta 100 4x5,100,4x5,1.26,panchromatic,,,,,,,,,,film
+Ilford Delta 100 8x10,100,8x10,1.26,panchromatic,,,,,,,,,,film
+Ilford Delta 400 35mm,400,35mm,1.41,panchromatic,,,,,,,,,,film
+Ilford Delta 400 120,400,120,1.41,panchromatic,,,,,,,,,,film
+Ilford Delta 400 4x5,400,4x5,1.41,panchromatic,,,,,,,,,,film
+Ilford Delta 400 8x10,400,8x10,1.41,panchromatic,,,,,,,,,,film
+Ilford Delta 3200 35mm,1000,35mm,1.33,panchromatic,,,,,,,,,,film
+Ilford Delta 3200 120,1000,120,1.33,panchromatic,,,,,,,,,,film
+Ilford FP4+ 35mm,125,35mm,1.26,panchromatic,,,,,,,,,,film
+Ilford FP4+ 120,125,120,1.26,panchromatic,,,,,,,,,,film
+Ilford FP4+ 4x5,125,4x5,1.26,panchromatic,,,,,,,,,,film
+Ilford FP4+ 8x10,125,8x10,1.26,panchromatic,,,,,,,,,,film
+Ilford HP5+ 35mm,400,35mm,1.31,panchromatic,,,,,,,,,,film
+Ilford HP5+ 120,400,120,1.31,panchromatic,,,,,,,,,,film
+Ilford HP5+ 4x5,400,4x5,1.31,panchromatic,,,,,,,,,,film
+Ilford HP5+ 8x10,400,8x10,1.31,panchromatic,,,,,,,,,,film
+Ilford Pan F Plus 35mm,50,35mm,1.33,panchromatic,,,,,,,,,,film
+Ilford Pan F Plus 120,50,120,1.33,panchromatic,,,,,,,,,,film
+Ilford SFX 200 35mm,200,35mm,1.30,panchromatic,,,,,,,,,,film
+Ilford SFX 200 120,200,120,1.30,panchromatic,,,,,,,,,,film
+Instax Mini,800,instax mini,1.20,panchromatic,,,,,,,,,,film
+Instax Wide,800,instax wide,1.20,panchromatic,,,,,,,,,,film
+Instax Square,800,instax square,1.20,panchromatic,,,,,,,,,,film
+Kodak ColorPlus 200 35mm,200,35mm,1.35,panchromatic,,,,,,,,,,film
+Kodak Double-X 35mm,250,35mm,1.30,panchromatic,,,,,,,,,,film
+Kodak Double-X 120,250,120,1.30,panchromatic,,,,,,,,,,film
+Kodak Ektachrome E100 35mm,100,35mm,1.28,panchromatic,,,,,,,,,,film
+Kodak Ektachrome E100 120,100,120,1.28,panchromatic,,,,,,,,,,film
+Kodak Ektachrome E100 4x5,100,4x5,1.28,panchromatic,,,,,,,,,,film
+Kodak Ektar 100 35mm,100,35mm,1.30,panchromatic,,,,,,,,,,film
+Kodak Ektar 100 120,100,120,1.30,panchromatic,,,,,,,,,,film
+Kodak Ektar 100 4x5,100,4x5,1.30,panchromatic,,,,,,,,,,film
+Kodak Gold 200 35mm,200,35mm,1.35,panchromatic,,,,,,,,,,film
+Kodak Portra 160 35mm,160,35mm,1.30,panchromatic,,,,,,,,,,film
+Kodak Portra 160 120,160,120,1.30,panchromatic,,,,,,,,,,film
+Kodak Portra 160 4x5,160,4x5,1.30,panchromatic,,,,,,,,,,film
+Kodak Portra 160 8x10,160,8x10,1.30,panchromatic,,,,,,,,,,film
+Kodak Portra 400 35mm,400,35mm,1.31,panchromatic,,,,,,,,,,film
+Kodak Portra 400 120,400,120,1.31,panchromatic,,,,,,,,,,film
+Kodak Portra 400 4x5,400,4x5,1.31,panchromatic,,,,,,,,,,film
+Kodak Portra 400 8x10,400,8x10,1.31,panchromatic,,,,,,,,,,film
+Kodak ProImage 100 35mm,100,35mm,1.12,panchromatic,,,,,,,,,,film
+Kodak T-Max 100 35mm,100,35mm,1.05,panchromatic,,,,,,,,,,film
+Kodak T-Max 100 120,100,120,1.05,panchromatic,,,,,,,,,,film
+Kodak T-Max 100 4x5,100,4x5,1.05,panchromatic,,,,,,,,,,film
+Kodak T-Max 100 8x10,100,8x10,1.05,panchromatic,,,,,,,,,,film
+Kodak T-Max 400 35mm,400,35mm,1.08,panchromatic,,,,,,,,,,film
+Kodak T-Max 400 120,400,120,1.08,panchromatic,,,,,,,,,,film
+Kodak T-Max 400 4x5,400,4x5,1.08,panchromatic,,,,,,,,,,film
+Kodak T-Max 400 8x10,400,8x10,1.08,panchromatic,,,,,,,,,,film
+Kodak Tri-X 400 35mm,400,35mm,1.33,panchromatic,,,,,,,,,,film
+Kodak Tri-X 400 120,400,120,1.33,panchromatic,,,,,,,,,,film
+Kodak Tri-X 400 4x5,400,4x5,1.33,panchromatic,,,,,,,,,,film
+Kodak UltraMax 400 35mm,400,35mm,1.35,panchromatic,,,,,,,,,,film
+Lomography Color 100 35mm,100,35mm,1.15,panchromatic,,,,,,,,,,film
+Lomography Color 100 120,100,120,1.15,panchromatic,,,,,,,,,,film
+Lomography Color 400 35mm,400,35mm,1.35,panchromatic,,,,,,,,,,film
+Lomography Color 400 120,400,120,1.35,panchromatic,,,,,,,,,,film
+Lomography Color 800 35mm,800,35mm,1.20,panchromatic,,,,,,,,,,film
+Orwo UN54 35mm,100,35mm,1.18,panchromatic,,,,,,,,,,film
+Orwo UN54 120,100,120,1.18,panchromatic,,,,,,,,,,film
+Rollei Infrared 400 35mm,400,35mm,1.30,infrared,,,,,,,,,,film
+Rollei Infrared 400 120,400,120,1.30,infrared,,,,,,,,,,film
+Arista.edu Ultra 100 35mm,100,35mm,1.35,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 100 120,100,120,1.35,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 100 4x5,100,4x5,1.35,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 100 8x10,100,8x10,1.35,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 200 35mm,200,35mm,1.65,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 200 120,200,120,1.65,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 200 4x5,200,4x5,1.65,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 200 8x10,200,8x10,1.65,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 400 35mm,400,35mm,1.38,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 400 120,400,120,1.38,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 400 4x5,400,4x5,1.38,panchromatic,,,,,,,,,,film
+Arista.edu Ultra 400 8x10,400,8x10,1.38,panchromatic,,,,,,,,,,film
+Adox MCC 110 FB Paper 4x5,3,4x5,paper_adox,orthochromatic,,,,,,,,,,paper
+Adox MCC 110 FB Paper 8x10,3,8x10,paper_adox,orthochromatic,,,,,,,,,,paper
+Adox MCP 312 RC Paper 4x5,6,4x5,paper_adox,orthochromatic,,,,,,,,,,paper
+Adox MCP 312 RC Paper 5x7,6,5x7,paper_adox,orthochromatic,,,,,,,,,,paper
+Adox MCP 312 RC Paper 8x10,6,8x10,paper_adox,orthochromatic,,,,,,,,,,paper
+Foma Fomabrom Variant III FB Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,,,,,,,paper
+Foma Fomabrom Variant III FB Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,,,,,,,paper
+Fomaspeed Variant III RC Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,,,,,,,paper
+Fomaspeed Variant III RC Paper 5x7,6,5x7,bw_paper,orthochromatic,,,,,,,,,,paper
+Fomaspeed Variant III RC Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,,,,,,,paper
+Harman Direct Positive FB Paper 4x5,3,4x5,bw_paper,orthochromatic,,yes,,,,,,,,paper
+Harman Direct Positive FB Paper 5x7,3,5x7,bw_paper,orthochromatic,,yes,,,,,,,,paper
+Harman Direct Positive FB Paper 8x10,3,8x10,bw_paper,orthochromatic,,yes,,,,,,,,paper
+Ilford MGFB Warmtone Paper 4x5,3,4x5,bw_paper,orthochromatic,,,,,,,,,,paper
+Ilford MGFB Warmtone Paper 8x10,3,8x10,bw_paper,orthochromatic,,,,,,,,,,paper
+Ilford Multigrade FB Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,,,,,,,paper
+Ilford Multigrade FB Paper 5x7,6,5x7,bw_paper,orthochromatic,,,,,,,,,,paper
+Ilford Multigrade FB Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,,,,,,,paper
+Ilford Multigrade FB Paper 11x14,6,11x14,bw_paper,orthochromatic,,,,,,,,,,paper
+Ilford Multigrade RC Deluxe Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,,,,,,,paper
+Ilford Multigrade RC Deluxe Paper 5x7,6,5x7,bw_paper,orthochromatic,,,,,,,,,,paper
+Ilford Multigrade RC Deluxe Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,,,,,,,paper
+Ilford Multigrade RC Deluxe Paper 11x14,6,11x14,bw_paper,orthochromatic,,,,,,,,,,paper
+Kentmere VC Select RC Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,,,,,,,paper
+Kentmere VC Select RC Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,,,,,,,paper
+Arista.EDU RC Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,,,,,,,paper
+Arista.EDU RC Paper 5x7,6,5x7,bw_paper,orthochromatic,,,,,,,,,,paper
+Arista.EDU RC Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,,,,,,,paper
+Arista.EDU FB Paper 4x5,6,4x5,bw_paper,orthochromatic,,,,,,,,,,paper
+Arista.EDU FB Paper 8x10,6,8x10,bw_paper,orthochromatic,,,,,,,,,,paper
+Fujifilm Crystal Archive CA,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.0,paper
+Fujifilm Crystal Archive DPII,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,-5,-5,1.0,paper
+Adox Color Mission,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.0,paper
+Labo Argentique Fujicolor,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.0,paper
+Kodak Endura Premier,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,8,8,1.0,paper
+Kodak Endura Ultra,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,12,12,1.0,paper
+Kodak Endura Metallic,2,none,generic,panchromatic,,yes,,,ra4-paper,3200,0,0,1.05,paper
+Kodak Endura Supra,3,none,generic,panchromatic,,yes,,,ra4-paper,3200,10,10,1.0,paper
+Wet Plate Collodion — Negative (6th Plate),2,sixth plate,zebra_dry_plate,blue-sensitive,,,83,70,,,,,,glass
+Wet Plate Collodion — Negative (Quarter Plate),2,quarter plate,zebra_dry_plate,blue-sensitive,,,108,83,,,,,,glass
+Wet Plate Collodion — Negative (4x5),2,4x5,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate Collodion — Negative (Half Plate),2,half plate,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate Collodion — Negative (5x7),2,5x7,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate Collodion — Negative (Whole Plate),2,whole plate,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate Collodion — Negative (8x10),2,8x10,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate Collodion — Negative (11x14),2,11x14,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Tintype / Ferrotype (6th Plate),2,sixth plate,zebra_dry_plate,blue-sensitive,,yes,83,70,,,,,,tintype
+Tintype / Ferrotype (Quarter Plate),2,quarter plate,zebra_dry_plate,blue-sensitive,,yes,108,83,,,,,,tintype
+Tintype / Ferrotype (4x5),2,4x5,zebra_dry_plate,blue-sensitive,,yes,,,,,,,,tintype
+Tintype / Ferrotype (5x7),2,5x7,zebra_dry_plate,blue-sensitive,,yes,,,,,,,,tintype
+Tintype / Ferrotype (8x10),2,8x10,zebra_dry_plate,blue-sensitive,,yes,,,,,,,,tintype
+Ambrotype (6th Plate),2,sixth plate,zebra_dry_plate,blue-sensitive,,yes,83,70,,,,,,tintype
+Ambrotype (Quarter Plate),2,quarter plate,zebra_dry_plate,blue-sensitive,,yes,108,83,,,,,,tintype
+Ambrotype (4x5),2,4x5,zebra_dry_plate,blue-sensitive,,yes,,,,,,,,tintype
+Ambrotype (5x7),2,5x7,zebra_dry_plate,blue-sensitive,,yes,,,,,,,,tintype
+Ambrotype (8x10),2,8x10,zebra_dry_plate,blue-sensitive,,yes,,,,,,,,tintype
+Wet Plate — Fast Bath ISO 4 (4x5),4,4x5,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate — Fast Bath ISO 4 (5x7),4,5x7,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate — Fast Bath ISO 4 (8x10),4,8x10,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate — Slow Bath ISO 1 (4x5),1,4x5,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate — Slow Bath ISO 1 (5x7),1,5x7,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate — Slow Bath ISO 1 (8x10),1,8x10,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
+Wet Plate — Super Slow Bath ISO .4 (5x7),.4,5x7,zebra_dry_plate,blue-sensitive,,,,,,,,,,glass
